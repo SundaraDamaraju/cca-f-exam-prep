@@ -1,2 +1,2 @@
 # cca-f-exam-prep
-This is Sunda'r repository for testing the concepts of CCA
+This is Sundar's repository for testing the concepts of CCA
